@@ -1,0 +1,106 @@
+html {
+  background-color: white;
+}
+ 
+body {
+  width: 1000px;
+  
+  padding: 0px 20px 20px 20px;
+  
+}
+
+h1 {
+	font-size: 100px;
+	text-align: center;
+	padding: 20px 0;
+	margin: 0;
+	color: #0072CE;  /* actual walmart color */
+}
+
+h2 {
+
+	font-size: 30px;
+	text-align: center;
+	padding: 20px 0;
+	margin: 0;
+	color: #0072CE;  /* actual walmart color */
+}
+
+h3 {
+	
+	font-size: 30px;
+	padding: 20px 0;
+	text-align: left;
+
+	margin: 0;
+	color: #0072CE;  /* actual walmart color */
+}
+
+h4 {
+	
+	font-size: 30px;
+	padding: 20px 0;
+	text-align: left;
+
+	margin: 0;
+}
+
+h5 {
+	
+	font-size: 20px;
+	padding: 20px 0;
+	text-align: left;
+
+	margin: 20;
+	color: #0072CE;  /* actual walmart color */
+}
+img {
+  display: block;
+  margin: 0 auto;
+  align: center;
+}
+
+p {
+  color: black;
+}
+
+
+
+.information {
+  background-color: ;
+  color: white;
+  margin: 20px;
+  padding: 20px;
+  align: Left;
+}
+
+/* Defining styling for a specific element type - each question */
+.question {
+  background-color: #f9a404;
+  color: black;
+  font-size: 30px;
+  margin: 20px;
+  padding: 20px;
+
+
+}
+
+/* Defining styling for a specific element type - large block buttons */
+.block {
+  display: block;
+  width: 100%;
+  border: none;
+  background-color: green;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  text-align: center;
+}
+
+.footer {
+  font-size: 16px;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: right;
+}
